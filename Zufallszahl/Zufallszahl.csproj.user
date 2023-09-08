@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C:\Users\kochl\Desktop\IMS\BBB\Lernaterlier\2 Jahr\Ratespiel\Ratemodus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ratemodus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+C:\Users\kochl\source\repos\Zufallszahl\bin\Debug\netcoreapp3.1\Zufallszahl.exe
+C:\Users\kochl\source\repos\Zufallszahl\bin\Debug\netcoreapp3.1\Zufallszahl.deps.json
+C:\Users\kochl\source\repos\Zufallszahl\bin\Debug\netcoreapp3.1\Zufallszahl.runtimeconfig.json
+C:\Users\kochl\source\repos\Zufallszahl\bin\Debug\netcoreapp3.1\Zufallszahl.runtimeconfig.dev.json
+C:\Users\kochl\source\repos\Zufallszahl\bin\Debug\netcoreapp3.1\Zufallszahl.dll
+C:\Users\kochl\source\repos\Zufallszahl\bin\Debug\netcoreapp3.1\Zufallszahl.pdb
+C:\Users\kochl\source\repos\Zufallszahl\obj\Debug\netcoreapp3.1\Zufallszahl.csproj.GenerateResource.cache
+C:\Users\kochl\source\repos\Zufallszahl\obj\Debug\netcoreapp3.1\Zufallszahl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kochl\source\repos\Zufallszahl\obj\Debug\netcoreapp3.1\Zufallszahl.AssemblyInfoInputs.cache
+C:\Users\kochl\source\repos\Zufallszahl\obj\Debug\netcoreapp3.1\Zufallszahl.AssemblyInfo.cs
+C:\Users\kochl\source\repos\Zufallszahl\obj\Debug\netcoreapp3.1\Zufallszahl.csproj.CoreCompileInputs.cache
+C:\Users\kochl\source\repos\Zufallszahl\obj\Debug\netcoreapp3.1\Zufallszahl.dll
+C:\Users\kochl\source\repos\Zufallszahl\obj\Debug\netcoreapp3.1\Zufallszahl.pdb
+C:\Users\kochl\source\repos\Zufallszahl\obj\Debug\netcoreapp3.1\Zufallszahl.genruntimeconfig.cache
+C:\Users\kochl\source\repos\Zufallszahl\obj\Debug\netcoreapp3.1\Zufallszahl.Menu.resources
+C:\Users\kochl\source\repos\Zufallszahl\obj\Debug\netcoreapp3.1\Zufallszahl.Ratemodus.resources
